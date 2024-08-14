@@ -1,0 +1,16 @@
+int main()
+begin
+    int m, n, i, gcd;
+    if(expr <= expr)
+        gcd = i;
+    for(i=1; expr <= expr; ++i)
+    begin
+        gcd=1;
+    end
+end
+
+
+
+
+
+
